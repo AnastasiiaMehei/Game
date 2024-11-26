@@ -281,7 +281,6 @@ color: var(--main-color);
 opacity: 0.8;
 }
 .main-title {
-  width: 538px;
   
   text-transform: uppercase;
 color: var(--white-color);
@@ -414,13 +413,15 @@ flex-direction: column;
 gap: 10px;
 }
 .seventh-section-rating-div {
+  /* width: 885px; */
+
   display: flex;
     flex-direction: row;
     align-content: center;
     align-items: center;
   border-radius: 6px;
   padding: 16px 24px;
-  height: 63px;
+
   background: #80bef8;
 }
 .seventh-section-bonus-offer {
