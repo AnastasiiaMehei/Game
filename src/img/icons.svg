@@ -66,5 +66,32 @@
 <symbol id="icon-star-yellow" viewBox="0 0 33 32">
 <path fill="#ffc512" style="fill: var(--color1, #ffc512); stroke: var(--color1, #ffc512)" stroke="#ffc512" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.0968" d="M16.516 4.218l3.413 8.647 9.211 0.64-7.083 6.033 2.237 9.072-7.777-4.969-7.777 4.969 2.237-9.072-7.083-6.033 9.211-0.64 3.413-8.647z"></path>
 </symbol>
+<symbol id="icon-founder-year" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-apps" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-casino-provider" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-casino-game-types" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-getting-functions" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-withdrawal-methods" viewBox="0 0 27 32">
+<path d="M4.571 25.28h18.286v-18.286h-18.286v18.286z"></path>
+</symbol>
+<symbol id="icon-deposit-methods" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-game-types" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
+<symbol id="icon-website" viewBox="0 0 30 32">
+<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+</symbol>
 </defs>
 </svg>

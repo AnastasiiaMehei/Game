@@ -419,6 +419,7 @@ gap: 10px;
     flex-direction: row;
     align-content: center;
     align-items: center;
+    justify-content: space-between;
   border-radius: 6px;
   padding: 16px 24px;
 
@@ -437,6 +438,7 @@ gap: 10px;
   justify-content: space-around;
   width: 392px;
   background: transparent;
+  align-items: center;
 }
 .icons-seventh-section {
 width: 32;
@@ -445,10 +447,66 @@ fill: #0fa810;
 stroke: yellow;
 }
 .seventh-section-paragraph-rating {
+  margin-left: 16px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.5;
   text-transform: uppercase;
   text-align: center;
   color: var(--white-color);
+}
+/* eigth-section */
+.eigth-section {
+  width: 925px;
+  /* height: 628px;  */
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.eigth-section-main-title {
+font-weight: 700;
+font-size: 40px;
+line-height: 1.2;
+text-transform: uppercase;
+color: var(--main-color);
+width: 269px;
+border-bottom: 1px solid #77777780;
+margin-bottom: 18px;
+
+}
+.eigth-section-div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.eigth-section-div-content {
+
+border-bottom: 1px solid rgba(119, 119, 119, 0.5);
+padding: 8px 16px;
+/* width: 850px; */
+/* height: 44px; */
+display: flex;
+flex-direction: row;
+align-items: center;
+gap: 32px;
+}
+.eigth-section-div-logo {
+  display: flex;
+  gap: 5px;
+  width: 199px;
+  justify-content: flex-start;
+  align-items: center;
+}
+.eight-section-div-title {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+text-transform: capitalize;
+color: var(--main-color);
+}
+.eight-section-div-paragraph {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: var(--main-color);
 }
