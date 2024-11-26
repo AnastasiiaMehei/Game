@@ -64,7 +64,7 @@
 <path fill="#c3d5cf" style="fill: var(--color1, #c3d5cf); stroke: var(--color1, #c3d5cf)" stroke="#c3d5cf" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.0968" d="M16.516 4.218l3.413 8.647 9.211 0.64-7.083 6.033 2.237 9.072-7.777-4.969-7.777 4.969 2.237-9.072-7.083-6.033 9.211-0.64 3.413-8.647z"></path>
 </symbol>
 <symbol id="icon-star-yellow" viewBox="0 0 33 32">
-<path fill="#ffc512" style="fill: var(--color2, #ffc512); stroke: var(--color2, #ffc512)" stroke="#ffc512" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.0968" d="M16.516 4.218l3.413 8.647 9.211 0.64-7.083 6.033 2.237 9.072-7.777-4.969-7.777 4.969 2.237-9.072-7.083-6.033 9.211-0.64 3.413-8.647z"></path>
+<path fill="#ffc512" style="fill: var(--color1, #ffc512); stroke: var(--color1, #ffc512)" stroke="#ffc512" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.0968" d="M16.516 4.218l3.413 8.647 9.211 0.64-7.083 6.033 2.237 9.072-7.777-4.969-7.777 4.969 2.237-9.072-7.083-6.033 9.211-0.64 3.413-8.647z"></path>
 </symbol>
 </defs>
 </svg>
