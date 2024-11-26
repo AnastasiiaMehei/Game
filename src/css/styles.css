@@ -582,5 +582,9 @@ width: 925px;
   color: var(--main-color);
 }
 .tenth-section-button{
-
+  border-radius: 100px;
+  box-shadow: 0 4px 4px 0 #00000040;
+  width: 48px;
+  height: 48px;
+  background: #e2eaf7;
 }
