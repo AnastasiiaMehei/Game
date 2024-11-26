@@ -46,10 +46,9 @@ const DEFAULT_OPTIONS = {
 
 export default defineConfig(({ command }) => {
   return {
+    base: '',
     define: {
-      [command === 'serve'
-        ? 'global'
-        : '_global']: {},
+      [command === 'serve' ? 'global' : '_global']: {},
     },
     root: 'src',
     build: {
