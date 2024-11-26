@@ -567,10 +567,9 @@ font-size: 16px;
 line-height: 1.28;
 text-transform: uppercase;
 color: var(--white-color);
-}
-/* tenth-section */
+}/* tenth-section */
 .tenth-section {
-width: 925px;
+  width: 925px;
 }
 .tenth-section-header {
   display: flex
@@ -600,13 +599,8 @@ width: 925px;
   width: 18px;
   height: 8px;
 }
-.tenth-section-reviews {
-  /* display: flex;
-justify-content: space-between; */
-}
 .tenth-section-reviews-person {
-  display: flex
-  ;
+  display: flex;
       align-items: center;
       padding-left: 33px;
       padding-top: 34px;
@@ -615,13 +609,13 @@ justify-content: space-between; */
       gap: 24px;
   background: #e2eaf7;
   border-radius: 6px;
-width: 433px;
-height: 177px;
+  width: 433px;
+  height: 177px;
 }
-.tenth-section-img-div img {
+.tenth-section-img-div {
   border-radius: 8px;
-width: 109px;
-height: 113px;
+  width: 109px;
+  height: 113px;
 }
 .tenth-section-person-rew {
   display: flex;
@@ -635,11 +629,11 @@ height: 113px;
       justify-content: space-between;
 }
 .tenth-section-person-name {
-font-weight: 600;
-font-size: 16px;
-line-height: 1.2;
-text-transform: uppercase;
-color: var(--main-color);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--main-color);
 }
 .tenth-section-svg-star {
   display: flex;
@@ -657,8 +651,8 @@ color: var(--main-color);
   color: var(--main-color);
 }
 .tenth-section-person-text {
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-color: var(--main-color);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--main-color);
 }
