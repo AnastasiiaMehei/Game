@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "preview": "vite preview",
-    "build": "vite build"
+     "prebuild": "chmod +x node_modules/.bin/vite",
+     "build": "vite build --base=/game/"
   },
   "devDependencies": {
     "glob": "^8.1.0",

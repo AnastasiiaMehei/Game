@@ -570,6 +570,10 @@ color: var(--white-color);
 }/* tenth-section */
 .tenth-section {
   width: 925px;
+  gap: 17px;
+    display: flex
+;
+    flex-direction: column;
 }
 .tenth-section-header {
   display: flex
