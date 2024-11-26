@@ -66,32 +66,11 @@
 <symbol id="icon-star-yellow" viewBox="0 0 33 32">
 <path fill="#ffc512" style="fill: var(--color1, #ffc512); stroke: var(--color1, #ffc512)" stroke="#ffc512" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="3.0968" d="M16.516 4.218l3.413 8.647 9.211 0.64-7.083 6.033 2.237 9.072-7.777-4.969-7.777 4.969 2.237-9.072-7.083-6.033 9.211-0.64 3.413-8.647z"></path>
 </symbol>
-<symbol id="icon-founder-year" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+<symbol id="icon-turn-right" viewBox="0 0 72 32">
+<path d="M69.414 14.586c0.781 0.781 0.781 2.047 0 2.828l-12.728 12.728c-0.781 0.781-2.048 0.781-2.828 0s-0.781-2.047 0-2.828l11.314-11.314-11.314-11.314c-0.781-0.781-0.781-2.047 0-2.828s2.047-0.781 2.828 0l12.728 12.728zM0 14h68v4h-68v-4z"></path>
 </symbol>
-<symbol id="icon-apps" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-casino-provider" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-casino-game-types" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-getting-functions" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-withdrawal-methods" viewBox="0 0 27 32">
-<path d="M4.571 25.28h18.286v-18.286h-18.286v18.286z"></path>
-</symbol>
-<symbol id="icon-deposit-methods" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-game-types" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
-</symbol>
-<symbol id="icon-website" viewBox="0 0 30 32">
-<path d="M0 30.344h30.118v-30.118h-30.118v30.118z"></path>
+<symbol id="icon-turn-left" viewBox="0 0 72 32">
+<path d="M2.586 14.586c-0.781 0.781-0.781 2.047 0 2.828l12.728 12.728c0.781 0.781 2.047 0.781 2.828 0s0.781-2.047 0-2.828l-11.314-11.314 11.314-11.314c0.781-0.781 0.781-2.047 0-2.828s-2.047-0.781-2.828 0l-12.728 12.728zM72 14h-68v4h68v-4z"></path>
 </symbol>
 </defs>
 </svg>
